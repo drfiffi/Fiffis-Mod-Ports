@@ -1,0 +1,14 @@
+{
+	"params": [
+        {
+            "name": "Object to Set:",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Property Set:",
+            "type": "String",
+            "defaultValue": ""
+        }
+	]
+}

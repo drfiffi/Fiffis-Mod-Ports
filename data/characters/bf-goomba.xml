@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="10" icon="gbf" camx="20" y="420" isGF="false" camy="-30" color="#5696A9" flipX="true" isPlayer="true" sprite="BF_Goomba">
+	<anim x="2" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="54" loop="false" y="13" fps="24" anim="left" name="singLEFT"/>
+	<anim x="13" loop="false" y="-31" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-23" loop="false" y="57" fps="24" anim="up" name="singUP"/>
+	<anim x="-23" loop="false" y="16" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="38" loop="false" y="53" fps="24" anim="miss left" name="singLEFTmiss"/>
+	<anim x="12" loop="false" y="14" fps="24" anim="miss down" name="singDOWNmiss"/>
+	<anim x="-15" loop="false" y="52" fps="24" anim="miss up" name="singUPmiss"/>
+	<anim x="-25" loop="false" y="46" fps="24" anim="miss right" name="singRIGHTmiss"/>
+	<anim x="-15" loop="false" y="30" fps="24" anim="dodge" name="dodge"/>
+</character>
